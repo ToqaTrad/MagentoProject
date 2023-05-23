@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-14T20:50:20 GST" name="Default suite" finished-at="2023-05-14T20:56:24 GST" duration-ms="364328">
+    <groups>
+    </groups>
+    <test started-at="2023-05-14T20:50:20 GST" name="Default test" finished-at="2023-05-14T20:56:24 GST" duration-ms="364328">
+      <class name="TestCases">
+        <test-method is-config="true" signature="WebsiteLogin()[pri:0, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:50:20 GST" name="WebsiteLogin" finished-at="2023-05-14T20:50:24 GST" duration-ms="4846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebsiteLogin -->
+        <test-method signature="RandomSearchItems()[pri:0, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:50:24 GST" name="RandomSearchItems" description="2nd test: Search Items Randomly" finished-at="2023-05-14T20:50:34 GST" duration-ms="9335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomSearchItems -->
+        <test-method signature="Login()[pri:1, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:50:34 GST" name="Login" description="1st Test: Signup " finished-at="2023-05-14T20:50:55 GST" duration-ms="21210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddItemsToCart()[pri:2, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:50:55 GST" name="AddItemsToCart" description="3rd test: Adding Items To The Cart" finished-at="2023-05-14T20:52:02 GST" duration-ms="66878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemsToCart -->
+        <test-method signature="ShippingAddressInfo()[pri:3, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:52:02 GST" name="ShippingAddressInfo" description="4th test: Complete Shipping Address Information" finished-at="2023-05-14T20:52:20 GST" duration-ms="18466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShippingAddressInfo -->
+        <test-method signature="CheckFinalPrice()[pri:4, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:52:20 GST" name="CheckFinalPrice" description="5th test: Check Final Price Is Correct" finished-at="2023-05-14T20:52:42 GST" duration-ms="21259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckFinalPrice -->
+        <test-method signature="Reorder()[pri:5, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:52:42 GST" name="Reorder" description="6th test: Sign In and Reorder" finished-at="2023-05-14T20:56:20 GST" duration-ms="218044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reorder -->
+        <test-method signature="CheckInvoices()[pri:6, instance:TestCases@1b005a0b]" started-at="2023-05-14T20:56:20 GST" name="CheckInvoices" description="7th test: Check All Orders Invoices Are The Same" finished-at="2023-05-14T20:56:24 GST" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckInvoices -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
